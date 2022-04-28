@@ -1,0 +1,10 @@
+#Colors for emoji creation.
+b1 = ":blue_square:"
+b = ":black_large_square:"
+r = ":red_square:"
+o = ":orange_square:"
+y = ":yellow_square:"
+g = ":green_square:"
+p = ":purple_square:"
+w = ":white_large_square:"
+z = ":fog:"
